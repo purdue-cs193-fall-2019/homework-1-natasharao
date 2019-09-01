@@ -18,11 +18,11 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bullet List
-- Bullet List
+- Bulleted List
+- This class is fun to be in.
 
-1. Numbered
-2. List
+1. This list is numbered.
+2. The class should be really helpful also!
 
 **Bold** and _Italic_ and `Code` text
 
